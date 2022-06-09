@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ImportDefinitions>
+	<ImportDefinition name="import_s2_l3a" description="">
+		<LcnsIds></LcnsIds>
+		<SceneSearch folders-from-file-system="no" bdi-driver="" scene-name="field_boundaries_delineation" map-name="">
+			<TagString>{{root}\{any-folders}\{scene}_{layer}.tif}</TagString>
+			<SiteInfo x-coo="decimal" y-coo="decimal">
+				<TagString></TagString>
+			</SiteInfo>
+		</SceneSearch>
+		<SceneDefinition force-fitting="0" geo-coding="from-file" scene-extent="union" scene-unit="auto" pixel-size="auto">
+			<ImageLayer channel="1" alias="s2_{layer}" driver="GDAL">
+				<TagString>{search-string}</TagString>
+			</ImageLayer>
+		</SceneDefinition>
+	</ImportDefinition>
+</ImportDefinitions>
