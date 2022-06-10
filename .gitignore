@@ -1,3 +1,3 @@
 # exclude folders
-*ecognition_workspace/
-ecognition_workspace.zip
+#*ecognition_workspace/
+#ecognition_workspace.zip

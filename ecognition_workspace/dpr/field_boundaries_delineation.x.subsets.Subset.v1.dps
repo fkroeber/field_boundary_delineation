@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ViewSttngs general-node="general-settings" layer-node="layer-settings">
+	<general-settings NumView="2" NumLvl="0">
+		<ChldFrm Mode="1" LayoutType="10" Cols="1" Rows="2" PosX="144" PosY="438" bCrossHair="1">
+			<SyncData>
+				<SyncGroup id="1" SliceX="309" SliceY="703" SliceZ="0" nShot="0" Map="main"></SyncGroup>
+				<SyncGroup id="2" SliceX="0" SliceY="0" SliceZ="0" nShot="0" Map="main"></SyncGroup>
+			</SyncData>
+			<Pane row="0" col="0" view_type="1"></Pane>
+			<Pane row="1" col="0" view_type="1"></Pane>
+		</ChldFrm>
+		<CDIAClientDcmt0 ShowScalMark="0" ShowHeatMap="0" ShowScalMarkGlbl="0" ShowPanWndGlbl="0" ActlScalMark="1" MapName="main" MapIdx="0" SyncGroup="1" RndrType="0"></CDIAClientDcmt0>
+		<CDIAClientDcmt1 ShowScalMark="0" ShowHeatMap="0" ShowScalMarkGlbl="0" ShowPanWndGlbl="0" ActlScalMark="1" MapName="main" MapIdx="0" SyncGroup="2" RndrType="0"></CDIAClientDcmt1>
+	</general-settings>
+	<layer-settings NumView="2" NumLvl="0">
+		<CDIAClientDcmt0>
+			<RndrRect ScnX0="23" ScnY0="89" Zoom="1." nSceneSX="1053" nSceneSY="1063"></RndrRect>
+			<RndrSttng Pixels="1" DisplImage="0" LayrMode="Image Data" ElevMode="-auto-" dElevation="0." bDrawSER="0" bDrawElpt="0" bDrawEV="0" bDrawSklt="0" bDrawText="1" bDrawHeatMap="0" sPolyViewLyr="" SavedOrient="0">
+				<RndrVctrMix HideAllVectorLayers="0">
+					<layer channel-name="manually_delineated_fields" show="0" outline_color="14524637" fill_color="-1" alpha="0." thickness="1"></layer>
+				</RndrVctrMix>
+				<RndrObjLvlMix HideAllObjLvlLayers="0" HideAllClasses="0" ShowOutlines="1" ShowFill="1" OutlineMode="Outlines" UnclassifiedColor="-1" RenderMode="0" VctrMode="Outlines">
+					<Classes></Classes>
+				</RndrObjLvlMix>
+				<RndrPointCloudMix HideAllPoints="0" cBackgroundColor="0">
+					<Layers></Layers>
+					<Classes></Classes>
+				</RndrPointCloudMix>
+				<TopLeft eFontType="0" crText="16777215" strText="" iFontSize="10"></TopLeft>
+				<TopCenter eFontType="0" crText="16777215" strText="" iFontSize="10"></TopCenter>
+				<LeftCenter eFontType="0" crText="16777215" strText="" iFontSize="10"></LeftCenter>
+				<TopRight eFontType="0" crText="16777215" strText="" iFontSize="10"></TopRight>
+				<BottomLeft eFontType="0" crText="16777215" strText="" iFontSize="10"></BottomLeft>
+				<BottomCenter eFontType="0" crText="16777215" strText="" iFontSize="10"></BottomCenter>
+				<RightCenter eFontType="0" crText="16777215" strText="" iFontSize="10"></RightCenter>
+				<BottomRight eFontType="0" crText="16777215" strText="&lt;&lt;DEFAULT>>" iFontSize="10"></BottomRight>
+			</RndrSttng>
+			<RndrCMix ScalMode="linear" ScalSDev="2." ScalLSat="1.0000000000000000208166817117216851329e-002" ScalGamma="0.5" MixType="5" bUseIgnoreRange="0" dIgnoreRangeMin="0." dIgnoreRangeMax="0." num_chnl="24">
+				<wght0>
+					<Layer Index="0" Name="s2_l3a_20210415_blue" Value="0"></Layer>
+					<Layer Index="1" Name="s2_l3a_20210415_green" Value="0"></Layer>
+					<Layer Index="2" Name="s2_l3a_20210415_nir" Value="0"></Layer>
+					<Layer Index="3" Name="s2_l3a_20210415_red" Value="0"></Layer>
+					<Layer Index="4" Name="s2_l3a_20210515_blue" Value="0"></Layer>
+					<Layer Index="5" Name="s2_l3a_20210515_green" Value="0"></Layer>
+					<Layer Index="6" Name="s2_l3a_20210515_nir" Value="0"></Layer>
+					<Layer Index="7" Name="s2_l3a_20210515_red" Value="0"></Layer>
+					<Layer Index="8" Name="s2_l3a_20210615_blue" Value="0"></Layer>
+					<Layer Index="9" Name="s2_l3a_20210615_green" Value="0"></Layer>
+					<Layer Index="10" Name="s2_l3a_20210615_nir" Value="0"></Layer>
+					<Layer Index="11" Name="s2_l3a_20210615_red" Value="0"></Layer>
+					<Layer Index="12" Name="s2_l3a_20210715_blue" Value="0"></Layer>
+					<Layer Index="13" Name="s2_l3a_20210715_green" Value="0"></Layer>
+					<Layer Index="14" Name="s2_l3a_20210715_nir" Value="0"></Layer>
+					<Layer Index="15" Name="s2_l3a_20210715_red" Value="1"></Layer>
+					<Layer Index="16" Name="s2_l3a_20210815_blue" Value="0"></Layer>
+					<Layer Index="17" Name="s2_l3a_20210815_green" Value="0"></Layer>
+					<Layer Index="18" Name="s2_l3a_20210815_nir" Value="0"></Layer>
+					<Layer Index="19" Name="s2_l3a_20210815_red" Value="0"></Layer>
+					<Layer Index="20" Name="s2_l3a_20210915_blue" Value="0"></Layer>
+					<Layer Index="21" Name="s2_l3a_20210915_green" Value="0"></Layer>
+					<Layer Index="22" Name="s2_l3a_20210915_nir" Value="0"></Layer>
+					<Layer Index="23" Name="s2_l3a_20210915_red" Value="0"></Layer>
+				</wght0>
+				<wght1>
+					<Layer Index="0" Name="s2_l3a_20210415_blue" Value="0"></Layer>
+					<Layer Index="1" Name="s2_l3a_20210415_green" Value="0"></Layer>
+					<Layer Index="2" Name="s2_l3a_20210415_nir" Value="0"></Layer>
+					<Layer Index="3" Name="s2_l3a_20210415_red" Value="0"></Layer>
+					<Layer Index="4" Name="s2_l3a_20210515_blue" Value="0"></Layer>
+					<Layer Index="5" Name="s2_l3a_20210515_green" Value="0"></Layer>
+					<Layer Index="6" Name="s2_l3a_20210515_nir" Value="0"></Layer>
+					<Layer Index="7" Name="s2_l3a_20210515_red" Value="0"></Layer>
+					<Layer Index="8" Name="s2_l3a_20210615_blue" Value="0"></Layer>
+					<Layer Index="9" Name="s2_l3a_20210615_green" Value="0"></Layer>
+					<Layer Index="10" Name="s2_l3a_20210615_nir" Value="0"></Layer>
+					<Layer Index="11" Name="s2_l3a_20210615_red" Value="0"></Layer>
+					<Layer Index="12" Name="s2_l3a_20210715_blue" Value="0"></Layer>
+					<Layer Index="13" Name="s2_l3a_20210715_green" Value="1"></Layer>
+					<Layer Index="14" Name="s2_l3a_20210715_nir" Value="0"></Layer>
+					<Layer Index="15" Name="s2_l3a_20210715_red" Value="0"></Layer>
+					<Layer Index="16" Name="s2_l3a_20210815_blue" Value="0"></Layer>
+					<Layer Index="17" Name="s2_l3a_20210815_green" Value="0"></Layer>
+					<Layer Index="18" Name="s2_l3a_20210815_nir" Value="0"></Layer>
+					<Layer Index="19" Name="s2_l3a_20210815_red" Value="0"></Layer>
+					<Layer Index="20" Name="s2_l3a_20210915_blue" Value="0"></Layer>
+					<Layer Index="21" Name="s2_l3a_20210915_green" Value="0"></Layer>
+					<Layer Index="22" Name="s2_l3a_20210915_nir" Value="0"></Layer>
+					<Layer Index="23" Name="s2_l3a_20210915_red" Value="0"></Layer>
+				</wght1>
+				<wght2>
+					<Layer Index="0" Name="s2_l3a_20210415_blue" Value="0"></Layer>
+					<Layer Index="1" Name="s2_l3a_20210415_green" Value="0"></Layer>
+					<Layer Index="2" Name="s2_l3a_20210415_nir" Value="0"></Layer>
+					<Layer Index="3" Name="s2_l3a_20210415_red" Value="0"></Layer>
+					<Layer Index="4" Name="s2_l3a_20210515_blue" Value="0"></Layer>
+					<Layer Index="5" Name="s2_l3a_20210515_green" Value="0"></Layer>
+					<Layer Index="6" Name="s2_l3a_20210515_nir" Value="0"></Layer>
+					<Layer Index="7" Name="s2_l3a_20210515_red" Value="0"></Layer>
+					<Layer Index="8" Name="s2_l3a_20210615_blue" Value="0"></Layer>
+					<Layer Index="9" Name="s2_l3a_20210615_green" Value="0"></Layer>
+					<Layer Index="10" Name="s2_l3a_20210615_nir" Value="0"></Layer>
+					<Layer Index="11" Name="s2_l3a_20210615_red" Value="0"></Layer>
+					<Layer Index="12" Name="s2_l3a_20210715_blue" Value="1"></Layer>
+					<Layer Index="13" Name="s2_l3a_20210715_green" Value="0"></Layer>
+					<Layer Index="14" Name="s2_l3a_20210715_nir" Value="0"></Layer>
+					<Layer Index="15" Name="s2_l3a_20210715_red" Value="0"></Layer>
+					<Layer Index="16" Name="s2_l3a_20210815_blue" Value="0"></Layer>
+					<Layer Index="17" Name="s2_l3a_20210815_green" Value="0"></Layer>
+					<Layer Index="18" Name="s2_l3a_20210815_nir" Value="0"></Layer>
+					<Layer Index="19" Name="s2_l3a_20210815_red" Value="0"></Layer>
+					<Layer Index="20" Name="s2_l3a_20210915_blue" Value="0"></Layer>
+					<Layer Index="21" Name="s2_l3a_20210915_green" Value="0"></Layer>
+					<Layer Index="22" Name="s2_l3a_20210915_nir" Value="0"></Layer>
+					<Layer Index="23" Name="s2_l3a_20210915_red" Value="0"></Layer>
+				</wght2>
+				<ScalEqua>
+					<EquaItem EquaChnl="0" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="1" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="2" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="3" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="4" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="5" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="6" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="7" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="8" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="9" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="10" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="11" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="12" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="13" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="14" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="15" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="16" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="17" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="18" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="19" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="20" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="21" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="22" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="23" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+				</ScalEqua>
+				<LastMultiMix MixType="0">
+					<wght0>
+						<Layer Index="0" Name="s2_l3a_20210415_blue" Value="0"></Layer>
+						<Layer Index="1" Name="s2_l3a_20210415_green" Value="0"></Layer>
+						<Layer Index="2" Name="s2_l3a_20210415_nir" Value="0"></Layer>
+						<Layer Index="3" Name="s2_l3a_20210415_red" Value="0"></Layer>
+						<Layer Index="4" Name="s2_l3a_20210515_blue" Value="0"></Layer>
+						<Layer Index="5" Name="s2_l3a_20210515_green" Value="0"></Layer>
+						<Layer Index="6" Name="s2_l3a_20210515_nir" Value="0"></Layer>
+						<Layer Index="7" Name="s2_l3a_20210515_red" Value="0"></Layer>
+						<Layer Index="8" Name="s2_l3a_20210615_blue" Value="0"></Layer>
+						<Layer Index="9" Name="s2_l3a_20210615_green" Value="0"></Layer>
+						<Layer Index="10" Name="s2_l3a_20210615_nir" Value="0"></Layer>
+						<Layer Index="11" Name="s2_l3a_20210615_red" Value="0"></Layer>
+						<Layer Index="12" Name="s2_l3a_20210715_blue" Value="0"></Layer>
+						<Layer Index="13" Name="s2_l3a_20210715_green" Value="0"></Layer>
+						<Layer Index="14" Name="s2_l3a_20210715_nir" Value="0"></Layer>
+						<Layer Index="15" Name="s2_l3a_20210715_red" Value="0"></Layer>
+						<Layer Index="16" Name="s2_l3a_20210815_blue" Value="0"></Layer>
+						<Layer Index="17" Name="s2_l3a_20210815_green" Value="0"></Layer>
+						<Layer Index="18" Name="s2_l3a_20210815_nir" Value="0"></Layer>
+						<Layer Index="19" Name="s2_l3a_20210815_red" Value="0"></Layer>
+						<Layer Index="20" Name="s2_l3a_20210915_blue" Value="0"></Layer>
+						<Layer Index="21" Name="s2_l3a_20210915_green" Value="0"></Layer>
+						<Layer Index="22" Name="s2_l3a_20210915_nir" Value="0"></Layer>
+						<Layer Index="23" Name="s2_l3a_20210915_red" Value="0"></Layer>
+					</wght0>
+					<wght1>
+						<Layer Index="0" Name="s2_l3a_20210415_blue" Value="0"></Layer>
+						<Layer Index="1" Name="s2_l3a_20210415_green" Value="0"></Layer>
+						<Layer Index="2" Name="s2_l3a_20210415_nir" Value="0"></Layer>
+						<Layer Index="3" Name="s2_l3a_20210415_red" Value="0"></Layer>
+						<Layer Index="4" Name="s2_l3a_20210515_blue" Value="0"></Layer>
+						<Layer Index="5" Name="s2_l3a_20210515_green" Value="0"></Layer>
+						<Layer Index="6" Name="s2_l3a_20210515_nir" Value="0"></Layer>
+						<Layer Index="7" Name="s2_l3a_20210515_red" Value="0"></Layer>
+						<Layer Index="8" Name="s2_l3a_20210615_blue" Value="0"></Layer>
+						<Layer Index="9" Name="s2_l3a_20210615_green" Value="0"></Layer>
+						<Layer Index="10" Name="s2_l3a_20210615_nir" Value="0"></Layer>
+						<Layer Index="11" Name="s2_l3a_20210615_red" Value="0"></Layer>
+						<Layer Index="12" Name="s2_l3a_20210715_blue" Value="0"></Layer>
+						<Layer Index="13" Name="s2_l3a_20210715_green" Value="0"></Layer>
+						<Layer Index="14" Name="s2_l3a_20210715_nir" Value="0"></Layer>
+						<Layer Index="15" Name="s2_l3a_20210715_red" Value="0"></Layer>
+						<Layer Index="16" Name="s2_l3a_20210815_blue" Value="0"></Layer>
+						<Layer Index="17" Name="s2_l3a_20210815_green" Value="0"></Layer>
+						<Layer Index="18" Name="s2_l3a_20210815_nir" Value="0"></Layer>
+						<Layer Index="19" Name="s2_l3a_20210815_red" Value="0"></Layer>
+						<Layer Index="20" Name="s2_l3a_20210915_blue" Value="0"></Layer>
+						<Layer Index="21" Name="s2_l3a_20210915_green" Value="0"></Layer>
+						<Layer Index="22" Name="s2_l3a_20210915_nir" Value="0"></Layer>
+						<Layer Index="23" Name="s2_l3a_20210915_red" Value="0"></Layer>
+					</wght1>
+					<wght2>
+						<Layer Index="0" Name="s2_l3a_20210415_blue" Value="0"></Layer>
+						<Layer Index="1" Name="s2_l3a_20210415_green" Value="0"></Layer>
+						<Layer Index="2" Name="s2_l3a_20210415_nir" Value="0"></Layer>
+						<Layer Index="3" Name="s2_l3a_20210415_red" Value="0"></Layer>
+						<Layer Index="4" Name="s2_l3a_20210515_blue" Value="0"></Layer>
+						<Layer Index="5" Name="s2_l3a_20210515_green" Value="0"></Layer>
+						<Layer Index="6" Name="s2_l3a_20210515_nir" Value="0"></Layer>
+						<Layer Index="7" Name="s2_l3a_20210515_red" Value="0"></Layer>
+						<Layer Index="8" Name="s2_l3a_20210615_blue" Value="0"></Layer>
+						<Layer Index="9" Name="s2_l3a_20210615_green" Value="0"></Layer>
+						<Layer Index="10" Name="s2_l3a_20210615_nir" Value="0"></Layer>
+						<Layer Index="11" Name="s2_l3a_20210615_red" Value="0"></Layer>
+						<Layer Index="12" Name="s2_l3a_20210715_blue" Value="0"></Layer>
+						<Layer Index="13" Name="s2_l3a_20210715_green" Value="0"></Layer>
+						<Layer Index="14" Name="s2_l3a_20210715_nir" Value="0"></Layer>
+						<Layer Index="15" Name="s2_l3a_20210715_red" Value="0"></Layer>
+						<Layer Index="16" Name="s2_l3a_20210815_blue" Value="0"></Layer>
+						<Layer Index="17" Name="s2_l3a_20210815_green" Value="0"></Layer>
+						<Layer Index="18" Name="s2_l3a_20210815_nir" Value="0"></Layer>
+						<Layer Index="19" Name="s2_l3a_20210815_red" Value="0"></Layer>
+						<Layer Index="20" Name="s2_l3a_20210915_blue" Value="0"></Layer>
+						<Layer Index="21" Name="s2_l3a_20210915_green" Value="0"></Layer>
+						<Layer Index="22" Name="s2_l3a_20210915_nir" Value="0"></Layer>
+						<Layer Index="23" Name="s2_l3a_20210915_red" Value="0"></Layer>
+					</wght2>
+				</LastMultiMix>
+				<LastGrayMix MixType="0">
+					<wght0>
+						<Layer Index="0" Name="s2_l3a_20210415_blue" Value="0"></Layer>
+						<Layer Index="1" Name="s2_l3a_20210415_green" Value="0"></Layer>
+						<Layer Index="2" Name="s2_l3a_20210415_nir" Value="0"></Layer>
+						<Layer Index="3" Name="s2_l3a_20210415_red" Value="0"></Layer>
+						<Layer Index="4" Name="s2_l3a_20210515_blue" Value="0"></Layer>
+						<Layer Index="5" Name="s2_l3a_20210515_green" Value="0"></Layer>
+						<Layer Index="6" Name="s2_l3a_20210515_nir" Value="0"></Layer>
+						<Layer Index="7" Name="s2_l3a_20210515_red" Value="0"></Layer>
+						<Layer Index="8" Name="s2_l3a_20210615_blue" Value="0"></Layer>
+						<Layer Index="9" Name="s2_l3a_20210615_green" Value="0"></Layer>
+						<Layer Index="10" Name="s2_l3a_20210615_nir" Value="0"></Layer>
+						<Layer Index="11" Name="s2_l3a_20210615_red" Value="0"></Layer>
+						<Layer Index="12" Name="s2_l3a_20210715_blue" Value="0"></Layer>
+						<Layer Index="13" Name="s2_l3a_20210715_green" Value="0"></Layer>
+						<Layer Index="14" Name="s2_l3a_20210715_nir" Value="0"></Layer>
+						<Layer Index="15" Name="s2_l3a_20210715_red" Value="0"></Layer>
+						<Layer Index="16" Name="s2_l3a_20210815_blue" Value="0"></Layer>
+						<Layer Index="17" Name="s2_l3a_20210815_green" Value="0"></Layer>
+						<Layer Index="18" Name="s2_l3a_20210815_nir" Value="0"></Layer>
+						<Layer Index="19" Name="s2_l3a_20210815_red" Value="0"></Layer>
+						<Layer Index="20" Name="s2_l3a_20210915_blue" Value="0"></Layer>
+						<Layer Index="21" Name="s2_l3a_20210915_green" Value="0"></Layer>
+						<Layer Index="22" Name="s2_l3a_20210915_nir" Value="0"></Layer>
+						<Layer Index="23" Name="s2_l3a_20210915_red" Value="0"></Layer>
+					</wght0>
+					<wght1>
+						<Layer Index="0" Name="s2_l3a_20210415_blue" Value="0"></Layer>
+						<Layer Index="1" Name="s2_l3a_20210415_green" Value="0"></Layer>
+						<Layer Index="2" Name="s2_l3a_20210415_nir" Value="0"></Layer>
+						<Layer Index="3" Name="s2_l3a_20210415_red" Value="0"></Layer>
+						<Layer Index="4" Name="s2_l3a_20210515_blue" Value="0"></Layer>
+						<Layer Index="5" Name="s2_l3a_20210515_green" Value="0"></Layer>
+						<Layer Index="6" Name="s2_l3a_20210515_nir" Value="0"></Layer>
+						<Layer Index="7" Name="s2_l3a_20210515_red" Value="0"></Layer>
+						<Layer Index="8" Name="s2_l3a_20210615_blue" Value="0"></Layer>
+						<Layer Index="9" Name="s2_l3a_20210615_green" Value="0"></Layer>
+						<Layer Index="10" Name="s2_l3a_20210615_nir" Value="0"></Layer>
+						<Layer Index="11" Name="s2_l3a_20210615_red" Value="0"></Layer>
+						<Layer Index="12" Name="s2_l3a_20210715_blue" Value="0"></Layer>
+						<Layer Index="13" Name="s2_l3a_20210715_green" Value="0"></Layer>
+						<Layer Index="14" Name="s2_l3a_20210715_nir" Value="0"></Layer>
+						<Layer Index="15" Name="s2_l3a_20210715_red" Value="0"></Layer>
+						<Layer Index="16" Name="s2_l3a_20210815_blue" Value="0"></Layer>
+						<Layer Index="17" Name="s2_l3a_20210815_green" Value="0"></Layer>
+						<Layer Index="18" Name="s2_l3a_20210815_nir" Value="0"></Layer>
+						<Layer Index="19" Name="s2_l3a_20210815_red" Value="0"></Layer>
+						<Layer Index="20" Name="s2_l3a_20210915_blue" Value="0"></Layer>
+						<Layer Index="21" Name="s2_l3a_20210915_green" Value="0"></Layer>
+						<Layer Index="22" Name="s2_l3a_20210915_nir" Value="0"></Layer>
+						<Layer Index="23" Name="s2_l3a_20210915_red" Value="0"></Layer>
+					</wght1>
+					<wght2>
+						<Layer Index="0" Name="s2_l3a_20210415_blue" Value="0"></Layer>
+						<Layer Index="1" Name="s2_l3a_20210415_green" Value="0"></Layer>
+						<Layer Index="2" Name="s2_l3a_20210415_nir" Value="0"></Layer>
+						<Layer Index="3" Name="s2_l3a_20210415_red" Value="0"></Layer>
+						<Layer Index="4" Name="s2_l3a_20210515_blue" Value="0"></Layer>
+						<Layer Index="5" Name="s2_l3a_20210515_green" Value="0"></Layer>
+						<Layer Index="6" Name="s2_l3a_20210515_nir" Value="0"></Layer>
+						<Layer Index="7" Name="s2_l3a_20210515_red" Value="0"></Layer>
+						<Layer Index="8" Name="s2_l3a_20210615_blue" Value="0"></Layer>
+						<Layer Index="9" Name="s2_l3a_20210615_green" Value="0"></Layer>
+						<Layer Index="10" Name="s2_l3a_20210615_nir" Value="0"></Layer>
+						<Layer Index="11" Name="s2_l3a_20210615_red" Value="0"></Layer>
+						<Layer Index="12" Name="s2_l3a_20210715_blue" Value="0"></Layer>
+						<Layer Index="13" Name="s2_l3a_20210715_green" Value="0"></Layer>
+						<Layer Index="14" Name="s2_l3a_20210715_nir" Value="0"></Layer>
+						<Layer Index="15" Name="s2_l3a_20210715_red" Value="0"></Layer>
+						<Layer Index="16" Name="s2_l3a_20210815_blue" Value="0"></Layer>
+						<Layer Index="17" Name="s2_l3a_20210815_green" Value="0"></Layer>
+						<Layer Index="18" Name="s2_l3a_20210815_nir" Value="0"></Layer>
+						<Layer Index="19" Name="s2_l3a_20210815_red" Value="0"></Layer>
+						<Layer Index="20" Name="s2_l3a_20210915_blue" Value="0"></Layer>
+						<Layer Index="21" Name="s2_l3a_20210915_green" Value="0"></Layer>
+						<Layer Index="22" Name="s2_l3a_20210915_nir" Value="0"></Layer>
+						<Layer Index="23" Name="s2_l3a_20210915_red" Value="0"></Layer>
+					</wght2>
+				</LastGrayMix>
+				<HiddenFlags></HiddenFlags>
+			</RndrCMix>
+			<RndrBlock Orient3D="0" iSliceX="0" iSliceY="0"></RndrBlock>
+		</CDIAClientDcmt0>
+		<CDIAClientDcmt1>
+			<RndrRect ScnX0="23" ScnY0="89" Zoom="1." nSceneSX="1053" nSceneSY="1063"></RndrRect>
+			<RndrSttng Pixels="1" DisplImage="0" LayrMode="Image Data" ElevMode="-auto-" dElevation="0." bDrawSER="0" bDrawElpt="0" bDrawEV="0" bDrawSklt="0" bDrawText="1" bDrawHeatMap="0" sPolyViewLyr="" SavedOrient="0">
+				<RndrVctrMix HideAllVectorLayers="0">
+					<layer channel-name="manually_delineated_fields" show="0" outline_color="15794175" fill_color="-1" alpha="0." thickness="1"></layer>
+				</RndrVctrMix>
+				<RndrObjLvlMix HideAllObjLvlLayers="0" HideAllClasses="0" ShowOutlines="1" ShowFill="1" OutlineMode="Outlines" UnclassifiedColor="-1" RenderMode="0" VctrMode="Outlines">
+					<Classes></Classes>
+				</RndrObjLvlMix>
+				<RndrPointCloudMix HideAllPoints="0" cBackgroundColor="0">
+					<Layers></Layers>
+					<Classes></Classes>
+				</RndrPointCloudMix>
+				<TopLeft eFontType="0" crText="16777215" strText="" iFontSize="10"></TopLeft>
+				<TopCenter eFontType="0" crText="16777215" strText="" iFontSize="10"></TopCenter>
+				<LeftCenter eFontType="0" crText="16777215" strText="" iFontSize="10"></LeftCenter>
+				<TopRight eFontType="0" crText="16777215" strText="" iFontSize="10"></TopRight>
+				<BottomLeft eFontType="0" crText="16777215" strText="" iFontSize="10"></BottomLeft>
+				<BottomCenter eFontType="0" crText="16777215" strText="" iFontSize="10"></BottomCenter>
+				<RightCenter eFontType="0" crText="16777215" strText="" iFontSize="10"></RightCenter>
+				<BottomRight eFontType="0" crText="16777215" strText="&lt;&lt;DEFAULT>>" iFontSize="10"></BottomRight>
+			</RndrSttng>
+			<RndrCMix ScalMode="linear" ScalSDev="2." ScalLSat="1.0000000000000000208166817117216851329e-002" ScalGamma="0.5" MixType="4" bUseIgnoreRange="0" dIgnoreRangeMin="0." dIgnoreRangeMax="0." num_chnl="24">
+				<wght0>
+					<Layer Index="0" Name="s2_l3a_20210415_blue" Value="1"></Layer>
+					<Layer Index="1" Name="s2_l3a_20210415_green" Value="0"></Layer>
+					<Layer Index="2" Name="s2_l3a_20210415_nir" Value="0"></Layer>
+					<Layer Index="3" Name="s2_l3a_20210415_red" Value="0"></Layer>
+					<Layer Index="4" Name="s2_l3a_20210515_blue" Value="0"></Layer>
+					<Layer Index="5" Name="s2_l3a_20210515_green" Value="0"></Layer>
+					<Layer Index="6" Name="s2_l3a_20210515_nir" Value="0"></Layer>
+					<Layer Index="7" Name="s2_l3a_20210515_red" Value="0"></Layer>
+					<Layer Index="8" Name="s2_l3a_20210615_blue" Value="0"></Layer>
+					<Layer Index="9" Name="s2_l3a_20210615_green" Value="0"></Layer>
+					<Layer Index="10" Name="s2_l3a_20210615_nir" Value="0"></Layer>
+					<Layer Index="11" Name="s2_l3a_20210615_red" Value="0"></Layer>
+					<Layer Index="12" Name="s2_l3a_20210715_blue" Value="0"></Layer>
+					<Layer Index="13" Name="s2_l3a_20210715_green" Value="0"></Layer>
+					<Layer Index="14" Name="s2_l3a_20210715_nir" Value="0"></Layer>
+					<Layer Index="15" Name="s2_l3a_20210715_red" Value="0"></Layer>
+					<Layer Index="16" Name="s2_l3a_20210815_blue" Value="0"></Layer>
+					<Layer Index="17" Name="s2_l3a_20210815_green" Value="0"></Layer>
+					<Layer Index="18" Name="s2_l3a_20210815_nir" Value="0"></Layer>
+					<Layer Index="19" Name="s2_l3a_20210815_red" Value="0"></Layer>
+					<Layer Index="20" Name="s2_l3a_20210915_blue" Value="0"></Layer>
+					<Layer Index="21" Name="s2_l3a_20210915_green" Value="0"></Layer>
+					<Layer Index="22" Name="s2_l3a_20210915_nir" Value="0"></Layer>
+					<Layer Index="23" Name="s2_l3a_20210915_red" Value="0"></Layer>
+				</wght0>
+				<wght1>
+					<Layer Index="0" Name="s2_l3a_20210415_blue" Value="0"></Layer>
+					<Layer Index="1" Name="s2_l3a_20210415_green" Value="1"></Layer>
+					<Layer Index="2" Name="s2_l3a_20210415_nir" Value="0"></Layer>
+					<Layer Index="3" Name="s2_l3a_20210415_red" Value="0"></Layer>
+					<Layer Index="4" Name="s2_l3a_20210515_blue" Value="0"></Layer>
+					<Layer Index="5" Name="s2_l3a_20210515_green" Value="0"></Layer>
+					<Layer Index="6" Name="s2_l3a_20210515_nir" Value="0"></Layer>
+					<Layer Index="7" Name="s2_l3a_20210515_red" Value="0"></Layer>
+					<Layer Index="8" Name="s2_l3a_20210615_blue" Value="0"></Layer>
+					<Layer Index="9" Name="s2_l3a_20210615_green" Value="0"></Layer>
+					<Layer Index="10" Name="s2_l3a_20210615_nir" Value="0"></Layer>
+					<Layer Index="11" Name="s2_l3a_20210615_red" Value="0"></Layer>
+					<Layer Index="12" Name="s2_l3a_20210715_blue" Value="0"></Layer>
+					<Layer Index="13" Name="s2_l3a_20210715_green" Value="0"></Layer>
+					<Layer Index="14" Name="s2_l3a_20210715_nir" Value="0"></Layer>
+					<Layer Index="15" Name="s2_l3a_20210715_red" Value="0"></Layer>
+					<Layer Index="16" Name="s2_l3a_20210815_blue" Value="0"></Layer>
+					<Layer Index="17" Name="s2_l3a_20210815_green" Value="0"></Layer>
+					<Layer Index="18" Name="s2_l3a_20210815_nir" Value="0"></Layer>
+					<Layer Index="19" Name="s2_l3a_20210815_red" Value="0"></Layer>
+					<Layer Index="20" Name="s2_l3a_20210915_blue" Value="0"></Layer>
+					<Layer Index="21" Name="s2_l3a_20210915_green" Value="0"></Layer>
+					<Layer Index="22" Name="s2_l3a_20210915_nir" Value="0"></Layer>
+					<Layer Index="23" Name="s2_l3a_20210915_red" Value="0"></Layer>
+				</wght1>
+				<wght2>
+					<Layer Index="0" Name="s2_l3a_20210415_blue" Value="0"></Layer>
+					<Layer Index="1" Name="s2_l3a_20210415_green" Value="0"></Layer>
+					<Layer Index="2" Name="s2_l3a_20210415_nir" Value="1"></Layer>
+					<Layer Index="3" Name="s2_l3a_20210415_red" Value="0"></Layer>
+					<Layer Index="4" Name="s2_l3a_20210515_blue" Value="0"></Layer>
+					<Layer Index="5" Name="s2_l3a_20210515_green" Value="0"></Layer>
+					<Layer Index="6" Name="s2_l3a_20210515_nir" Value="0"></Layer>
+					<Layer Index="7" Name="s2_l3a_20210515_red" Value="0"></Layer>
+					<Layer Index="8" Name="s2_l3a_20210615_blue" Value="0"></Layer>
+					<Layer Index="9" Name="s2_l3a_20210615_green" Value="0"></Layer>
+					<Layer Index="10" Name="s2_l3a_20210615_nir" Value="0"></Layer>
+					<Layer Index="11" Name="s2_l3a_20210615_red" Value="0"></Layer>
+					<Layer Index="12" Name="s2_l3a_20210715_blue" Value="0"></Layer>
+					<Layer Index="13" Name="s2_l3a_20210715_green" Value="0"></Layer>
+					<Layer Index="14" Name="s2_l3a_20210715_nir" Value="0"></Layer>
+					<Layer Index="15" Name="s2_l3a_20210715_red" Value="0"></Layer>
+					<Layer Index="16" Name="s2_l3a_20210815_blue" Value="0"></Layer>
+					<Layer Index="17" Name="s2_l3a_20210815_green" Value="0"></Layer>
+					<Layer Index="18" Name="s2_l3a_20210815_nir" Value="0"></Layer>
+					<Layer Index="19" Name="s2_l3a_20210815_red" Value="0"></Layer>
+					<Layer Index="20" Name="s2_l3a_20210915_blue" Value="0"></Layer>
+					<Layer Index="21" Name="s2_l3a_20210915_green" Value="0"></Layer>
+					<Layer Index="22" Name="s2_l3a_20210915_nir" Value="0"></Layer>
+					<Layer Index="23" Name="s2_l3a_20210915_red" Value="0"></Layer>
+				</wght2>
+				<ScalEqua>
+					<EquaItem EquaChnl="0" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="1" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="2" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="3" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="4" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="5" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="6" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="7" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="8" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="9" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="10" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="11" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="12" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="13" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="14" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="15" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="16" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="17" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="18" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="19" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="20" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="21" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="22" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+					<EquaItem EquaChnl="23" EquaMode="1" EquaMin="0." EquaMax="255." EquaInit="0"></EquaItem>
+				</ScalEqua>
+				<LastMultiMix MixType="4">
+					<wght0>
+						<Layer Index="0" Name="s2_l3a_20210415_blue" Value="1"></Layer>
+						<Layer Index="1" Name="s2_l3a_20210415_green" Value="0"></Layer>
+						<Layer Index="2" Name="s2_l3a_20210415_nir" Value="0"></Layer>
+						<Layer Index="3" Name="s2_l3a_20210415_red" Value="0"></Layer>
+						<Layer Index="4" Name="s2_l3a_20210515_blue" Value="0"></Layer>
+						<Layer Index="5" Name="s2_l3a_20210515_green" Value="0"></Layer>
+						<Layer Index="6" Name="s2_l3a_20210515_nir" Value="0"></Layer>
+						<Layer Index="7" Name="s2_l3a_20210515_red" Value="0"></Layer>
+						<Layer Index="8" Name="s2_l3a_20210615_blue" Value="0"></Layer>
+						<Layer Index="9" Name="s2_l3a_20210615_green" Value="0"></Layer>
+						<Layer Index="10" Name="s2_l3a_20210615_nir" Value="0"></Layer>
+						<Layer Index="11" Name="s2_l3a_20210615_red" Value="0"></Layer>
+						<Layer Index="12" Name="s2_l3a_20210715_blue" Value="0"></Layer>
+						<Layer Index="13" Name="s2_l3a_20210715_green" Value="0"></Layer>
+						<Layer Index="14" Name="s2_l3a_20210715_nir" Value="0"></Layer>
+						<Layer Index="15" Name="s2_l3a_20210715_red" Value="0"></Layer>
+						<Layer Index="16" Name="s2_l3a_20210815_blue" Value="0"></Layer>
+						<Layer Index="17" Name="s2_l3a_20210815_green" Value="0"></Layer>
+						<Layer Index="18" Name="s2_l3a_20210815_nir" Value="0"></Layer>
+						<Layer Index="19" Name="s2_l3a_20210815_red" Value="0"></Layer>
+						<Layer Index="20" Name="s2_l3a_20210915_blue" Value="0"></Layer>
+						<Layer Index="21" Name="s2_l3a_20210915_green" Value="0"></Layer>
+						<Layer Index="22" Name="s2_l3a_20210915_nir" Value="0"></Layer>
+						<Layer Index="23" Name="s2_l3a_20210915_red" Value="0"></Layer>
+					</wght0>
+					<wght1>
+						<Layer Index="0" Name="s2_l3a_20210415_blue" Value="0"></Layer>
+						<Layer Index="1" Name="s2_l3a_20210415_green" Value="1"></Layer>
+						<Layer Index="2" Name="s2_l3a_20210415_nir" Value="0"></Layer>
+						<Layer Index="3" Name="s2_l3a_20210415_red" Value="0"></Layer>
+						<Layer Index="4" Name="s2_l3a_20210515_blue" Value="0"></Layer>
+						<Layer Index="5" Name="s2_l3a_20210515_green" Value="0"></Layer>
+						<Layer Index="6" Name="s2_l3a_20210515_nir" Value="0"></Layer>
+						<Layer Index="7" Name="s2_l3a_20210515_red" Value="0"></Layer>
+						<Layer Index="8" Name="s2_l3a_20210615_blue" Value="0"></Layer>
+						<Layer Index="9" Name="s2_l3a_20210615_green" Value="0"></Layer>
+						<Layer Index="10" Name="s2_l3a_20210615_nir" Value="0"></Layer>
+						<Layer Index="11" Name="s2_l3a_20210615_red" Value="0"></Layer>
+						<Layer Index="12" Name="s2_l3a_20210715_blue" Value="0"></Layer>
+						<Layer Index="13" Name="s2_l3a_20210715_green" Value="0"></Layer>
+						<Layer Index="14" Name="s2_l3a_20210715_nir" Value="0"></Layer>
+						<Layer Index="15" Name="s2_l3a_20210715_red" Value="0"></Layer>
+						<Layer Index="16" Name="s2_l3a_20210815_blue" Value="0"></Layer>
+						<Layer Index="17" Name="s2_l3a_20210815_green" Value="0"></Layer>
+						<Layer Index="18" Name="s2_l3a_20210815_nir" Value="0"></Layer>
+						<Layer Index="19" Name="s2_l3a_20210815_red" Value="0"></Layer>
+						<Layer Index="20" Name="s2_l3a_20210915_blue" Value="0"></Layer>
+						<Layer Index="21" Name="s2_l3a_20210915_green" Value="0"></Layer>
+						<Layer Index="22" Name="s2_l3a_20210915_nir" Value="0"></Layer>
+						<Layer Index="23" Name="s2_l3a_20210915_red" Value="0"></Layer>
+					</wght1>
+					<wght2>
+						<Layer Index="0" Name="s2_l3a_20210415_blue" Value="0"></Layer>
+						<Layer Index="1" Name="s2_l3a_20210415_green" Value="0"></Layer>
+						<Layer Index="2" Name="s2_l3a_20210415_nir" Value="1"></Layer>
+						<Layer Index="3" Name="s2_l3a_20210415_red" Value="0"></Layer>
+						<Layer Index="4" Name="s2_l3a_20210515_blue" Value="0"></Layer>
+						<Layer Index="5" Name="s2_l3a_20210515_green" Value="0"></Layer>
+						<Layer Index="6" Name="s2_l3a_20210515_nir" Value="0"></Layer>
+						<Layer Index="7" Name="s2_l3a_20210515_red" Value="0"></Layer>
+						<Layer Index="8" Name="s2_l3a_20210615_blue" Value="0"></Layer>
+						<Layer Index="9" Name="s2_l3a_20210615_green" Value="0"></Layer>
+						<Layer Index="10" Name="s2_l3a_20210615_nir" Value="0"></Layer>
+						<Layer Index="11" Name="s2_l3a_20210615_red" Value="0"></Layer>
+						<Layer Index="12" Name="s2_l3a_20210715_blue" Value="0"></Layer>
+						<Layer Index="13" Name="s2_l3a_20210715_green" Value="0"></Layer>
+						<Layer Index="14" Name="s2_l3a_20210715_nir" Value="0"></Layer>
+						<Layer Index="15" Name="s2_l3a_20210715_red" Value="0"></Layer>
+						<Layer Index="16" Name="s2_l3a_20210815_blue" Value="0"></Layer>
+						<Layer Index="17" Name="s2_l3a_20210815_green" Value="0"></Layer>
+						<Layer Index="18" Name="s2_l3a_20210815_nir" Value="0"></Layer>
+						<Layer Index="19" Name="s2_l3a_20210815_red" Value="0"></Layer>
+						<Layer Index="20" Name="s2_l3a_20210915_blue" Value="0"></Layer>
+						<Layer Index="21" Name="s2_l3a_20210915_green" Value="0"></Layer>
+						<Layer Index="22" Name="s2_l3a_20210915_nir" Value="0"></Layer>
+						<Layer Index="23" Name="s2_l3a_20210915_red" Value="0"></Layer>
+					</wght2>
+				</LastMultiMix>
+				<LastGrayMix MixType="1">
+					<wght0>
+						<Layer Index="0" Name="s2_l3a_20210415_blue" Value="0"></Layer>
+						<Layer Index="1" Name="s2_l3a_20210415_green" Value="0"></Layer>
+						<Layer Index="2" Name="s2_l3a_20210415_nir" Value="0"></Layer>
+						<Layer Index="3" Name="s2_l3a_20210415_red" Value="0"></Layer>
+						<Layer Index="4" Name="s2_l3a_20210515_blue" Value="0"></Layer>
+						<Layer Index="5" Name="s2_l3a_20210515_green" Value="0"></Layer>
+						<Layer Index="6" Name="s2_l3a_20210515_nir" Value="0"></Layer>
+						<Layer Index="7" Name="s2_l3a_20210515_red" Value="0"></Layer>
+						<Layer Index="8" Name="s2_l3a_20210615_blue" Value="0"></Layer>
+						<Layer Index="9" Name="s2_l3a_20210615_green" Value="0"></Layer>
+						<Layer Index="10" Name="s2_l3a_20210615_nir" Value="0"></Layer>
+						<Layer Index="11" Name="s2_l3a_20210615_red" Value="0"></Layer>
+						<Layer Index="12" Name="s2_l3a_20210715_blue" Value="0"></Layer>
+						<Layer Index="13" Name="s2_l3a_20210715_green" Value="0"></Layer>
+						<Layer Index="14" Name="s2_l3a_20210715_nir" Value="0"></Layer>
+						<Layer Index="15" Name="s2_l3a_20210715_red" Value="0"></Layer>
+						<Layer Index="16" Name="s2_l3a_20210815_blue" Value="0"></Layer>
+						<Layer Index="17" Name="s2_l3a_20210815_green" Value="0"></Layer>
+						<Layer Index="18" Name="s2_l3a_20210815_nir" Value="0"></Layer>
+						<Layer Index="19" Name="s2_l3a_20210815_red" Value="0"></Layer>
+						<Layer Index="20" Name="s2_l3a_20210915_blue" Value="0"></Layer>
+						<Layer Index="21" Name="s2_l3a_20210915_green" Value="0"></Layer>
+						<Layer Index="22" Name="s2_l3a_20210915_nir" Value="0"></Layer>
+						<Layer Index="23" Name="s2_l3a_20210915_red" Value="0"></Layer>
+					</wght0>
+					<wght1>
+						<Layer Index="0" Name="s2_l3a_20210415_blue" Value="0"></Layer>
+						<Layer Index="1" Name="s2_l3a_20210415_green" Value="0"></Layer>
+						<Layer Index="2" Name="s2_l3a_20210415_nir" Value="0"></Layer>
+						<Layer Index="3" Name="s2_l3a_20210415_red" Value="0"></Layer>
+						<Layer Index="4" Name="s2_l3a_20210515_blue" Value="0"></Layer>
+						<Layer Index="5" Name="s2_l3a_20210515_green" Value="0"></Layer>
+						<Layer Index="6" Name="s2_l3a_20210515_nir" Value="0"></Layer>
+						<Layer Index="7" Name="s2_l3a_20210515_red" Value="0"></Layer>
+						<Layer Index="8" Name="s2_l3a_20210615_blue" Value="0"></Layer>
+						<Layer Index="9" Name="s2_l3a_20210615_green" Value="0"></Layer>
+						<Layer Index="10" Name="s2_l3a_20210615_nir" Value="0"></Layer>
+						<Layer Index="11" Name="s2_l3a_20210615_red" Value="0"></Layer>
+						<Layer Index="12" Name="s2_l3a_20210715_blue" Value="0"></Layer>
+						<Layer Index="13" Name="s2_l3a_20210715_green" Value="0"></Layer>
+						<Layer Index="14" Name="s2_l3a_20210715_nir" Value="0"></Layer>
+						<Layer Index="15" Name="s2_l3a_20210715_red" Value="0"></Layer>
+						<Layer Index="16" Name="s2_l3a_20210815_blue" Value="0"></Layer>
+						<Layer Index="17" Name="s2_l3a_20210815_green" Value="0"></Layer>
+						<Layer Index="18" Name="s2_l3a_20210815_nir" Value="0"></Layer>
+						<Layer Index="19" Name="s2_l3a_20210815_red" Value="0"></Layer>
+						<Layer Index="20" Name="s2_l3a_20210915_blue" Value="0"></Layer>
+						<Layer Index="21" Name="s2_l3a_20210915_green" Value="0"></Layer>
+						<Layer Index="22" Name="s2_l3a_20210915_nir" Value="0"></Layer>
+						<Layer Index="23" Name="s2_l3a_20210915_red" Value="0"></Layer>
+					</wght1>
+					<wght2>
+						<Layer Index="0" Name="s2_l3a_20210415_blue" Value="0"></Layer>
+						<Layer Index="1" Name="s2_l3a_20210415_green" Value="0"></Layer>
+						<Layer Index="2" Name="s2_l3a_20210415_nir" Value="0"></Layer>
+						<Layer Index="3" Name="s2_l3a_20210415_red" Value="0"></Layer>
+						<Layer Index="4" Name="s2_l3a_20210515_blue" Value="0"></Layer>
+						<Layer Index="5" Name="s2_l3a_20210515_green" Value="0"></Layer>
+						<Layer Index="6" Name="s2_l3a_20210515_nir" Value="0"></Layer>
+						<Layer Index="7" Name="s2_l3a_20210515_red" Value="0"></Layer>
+						<Layer Index="8" Name="s2_l3a_20210615_blue" Value="0"></Layer>
+						<Layer Index="9" Name="s2_l3a_20210615_green" Value="0"></Layer>
+						<Layer Index="10" Name="s2_l3a_20210615_nir" Value="0"></Layer>
+						<Layer Index="11" Name="s2_l3a_20210615_red" Value="0"></Layer>
+						<Layer Index="12" Name="s2_l3a_20210715_blue" Value="0"></Layer>
+						<Layer Index="13" Name="s2_l3a_20210715_green" Value="0"></Layer>
+						<Layer Index="14" Name="s2_l3a_20210715_nir" Value="0"></Layer>
+						<Layer Index="15" Name="s2_l3a_20210715_red" Value="0"></Layer>
+						<Layer Index="16" Name="s2_l3a_20210815_blue" Value="0"></Layer>
+						<Layer Index="17" Name="s2_l3a_20210815_green" Value="0"></Layer>
+						<Layer Index="18" Name="s2_l3a_20210815_nir" Value="0"></Layer>
+						<Layer Index="19" Name="s2_l3a_20210815_red" Value="0"></Layer>
+						<Layer Index="20" Name="s2_l3a_20210915_blue" Value="0"></Layer>
+						<Layer Index="21" Name="s2_l3a_20210915_green" Value="0"></Layer>
+						<Layer Index="22" Name="s2_l3a_20210915_nir" Value="0"></Layer>
+						<Layer Index="23" Name="s2_l3a_20210915_red" Value="0"></Layer>
+					</wght2>
+				</LastGrayMix>
+				<HiddenFlags>
+					<Channel IsHidden="0"></Channel>
+					<Channel IsHidden="0"></Channel>
+					<Channel IsHidden="0"></Channel>
+				</HiddenFlags>
+			</RndrCMix>
+			<RndrBlock Orient3D="0" iSliceX="0" iSliceY="0"></RndrBlock>
+		</CDIAClientDcmt1>
+	</layer-settings>
+</ViewSttngs>
