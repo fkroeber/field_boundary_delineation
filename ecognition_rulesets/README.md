@@ -1,0 +1,1 @@
+This folder contains the actual algorithm for performing field boundary delineation. Naming indicates the versions of the rulset. Please choose the most recent one, the older ones are only intended to be backups. 
