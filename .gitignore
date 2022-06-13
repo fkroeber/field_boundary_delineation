@@ -1,3 +1,4 @@
 # exclude folders
-#*ecognition_workspace/
+
 #ecognition_workspace.zip
+*arcgis_project/
