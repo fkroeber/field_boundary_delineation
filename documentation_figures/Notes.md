@@ -1,17 +1,36 @@
+Fokus
+
+magdeburg: mrs_scale: 150, n_objects: 406, n_objects: 429
+* advice default of 5%, no pre-setted values as no sensible heuristics
+
 Brainstorming with Dirk
 * Compactness-based resizing with MRS params based on test fields
 * Objects growth under line constraints
 * Snake algorithms for line growth
 * prior classification & segmentation (using the intermediate watershed output)
 
+* automated approach via watershed mean as upper bound (under-segmentation happening occuring at this parameter value)
+* consider mrs internal homogeneity of spectral values
+
+Sigma
+* best setting: only extract bright boundaries
+* better suited to get linear field boundaries than canny_averaged
+* metrics is flawed, realisation that visual inspection (!) is far mor powerful, only afterwards proper metric for automisation needs to be found
+* not better with watershed as not always consistent
+* differs in double boundary (thicker ones) 
+
+https://medium.com/sentinel-hub/parcel-boundary-detection-for-cap-2a316a77d2f6
+
+
 Think about the actual problem
 * first problem -> lines are not delineated as they should be (lot of noise)
-* filter out every line shorter than < 2 pixels (20m)
+* clearly visible borders not enhanced in edge composite layer
+* metrics bias (inner * outer) 
 
 Future ideas / different software & setting
 * lee sigma filter or other adaptive filters (Wagner/Oppelt 2020)
 * derivate of pixel values to detect sharp ridges vs. smooth transitions
-* ... 
+* add S-1 data
 
 Done/Accomplished
 * change accuracy computation wrt denominator to relative one instead of hard-coded 20
