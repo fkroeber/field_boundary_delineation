@@ -11,9 +11,9 @@ The core idea of this project is to enable field boundary delineation by means o
 
 ## Algorithm description
 
+<img style="float: right;margin:0px 50px" src="documentation_figures/ruleset_structure.png" width="35%">
 <div>
     <p>
-        <img style="float: right;margin:0px 50px" src="documentation_figures/ruleset_structure.png" width="35%">
         <span>
         Some comments on the ruleset describing the workflow:
         <ul>
@@ -50,5 +50,5 @@ Note that the following accuracies should be treated with caution, as the algori
 The map below should give an impression of what the figures describing the averages for all validation fields within a certain aoi actually imply. All of the following figures refer to the upper rhine area (respresenting an area in which the application of the algorithm succeeded moderately well as described above). The detailed comparison of extracted vs. maunally delineated boundaries to the right is only made for two randomly selected fields and aims at providing an intuition for the meaning of the accuracy figures. Based on the different metrics not only the overall quality of delineation but also tendencies towards over-/undersegmentation can be evaluated. For more details, please take a look at [Watkins & van Niekerk 2019](https://doi.org/10.1016/j.compag.2019.02.009), who used similar metrics. 
 
 <img style="float: left" src="documentation_figures/overview_results_upper_rhine.png" width="60%">
-<img style="float: right;margin:0px 5px 25px" src="documentation_figures/comparison_extr_val_field_I.png" width="35%">
-<img style="float: right;margin:0px 5px" src="documentation_figures/comparison_extr_val_field_II.png" width="35%">
+<img style="float: right;margin:0px 5px 5px" src="documentation_figures/comparison_extr_val_field_I.png" width="50%">
+<img style="float: right;margin:0px 5px" src="documentation_figures/comparison_extr_val_field_II.png" width="50%">
