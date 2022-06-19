@@ -1,4 +1,10 @@
 # exclude folders
 
-#ecognition_workspace.zip
-*arcgis_project/
+# ecognition workspace
+ecognition_workspace/results/*
+!ecognition_workspace/results/info
+!ecognition_workspace/results/ObjectShapes
+!ecognition_workspace/results/ThematicShapes
+
+# arcgis project
+*arcgis_project/*

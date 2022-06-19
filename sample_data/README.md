@@ -1,14 +1,14 @@
-This folder provides some sample data used for setting up the algorithm and perform some preliminary evaluation on its performance. In order to achieve a high level of transferability, three different AoIs with different field structures and varying quality of the corresponding Sentinel-2 imagery were chosen. The characteristics of the individual sample data sets are as follows:
+This folder provides some sample data used for setting up the algorithm and perform some preliminary evaluation on its performance. In order to achieve a high level of transferability, three different AoIs with different field structures and varying quality of the corresponding Sentinel-2 imagery (monthly composites for vegetation period) were chosen. The characteristics of the individual sample data sets are as follows:
 
 * upper rhine area
     * AoI: ~120km<sup>2</sup>, variety of field sizes, mixed use, mostly arable farming
-    * S-2 data: Apr-Sep, cloudfree
+    * S-2 data: 6 months (Apr-Sep), cloudfree
 * magdeburger boerde
     * AoI: ~85km<sup>2</sup>, large field sizes, exclusively arable farming
-    * S-2 data: Mar-Oct, partly cloudy
+    * S-2 data: 7 months (Mar-Oct, excl. July), partly slightly cloudy
 * coastal landscape
     * AoI: ~25km<sup>2</sup>, mostly meadows, in some parts delineated by bushes
-    * S-2 data: June-Oct, cloudfree
+    * S-2 data: 5 months (June-Oct), cloudfree
 
 Sentinel-2 imagery (June 2021) for each of the sample data sets alongside with centroid coordinates: 
 
@@ -67,5 +67,5 @@ Note the following things with regard to the selection of training & validation 
 
 The following study site specific remarks are to be made:
 * upper_rhine: partly permanent cultures with complicated parcel structure
-* magdeburger_boerde: in most cases clearly seperated fields should obtain best results 
+* magdeburger_boerde: in most cases clearly seperated field, should obtain best results 
 * coastal: transition between meadows difficult to determine, single tree groups & weakly visible channel structures complicate field boundary delineation even for a human interpreter
