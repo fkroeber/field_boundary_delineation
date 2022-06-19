@@ -4,7 +4,7 @@
 ecognition_workspace/results/*
 !ecognition_workspace/results/info
 !ecognition_workspace/results/ObjectShapes
-!ecognition_workspace/results/ThematicShapes
+!ecognition_workspace/results/ThematicShape
 
 # arcgis project
 *arcgis_project/*
