@@ -21,6 +21,9 @@ Sigma
 
 https://medium.com/sentinel-hub/parcel-boundary-detection-for-cap-2a316a77d2f6
 
+Use official parcel datasets
+https://catalog.inspire.geoportail.lu/geonetwork/srv/search?any=lpis+&fast=index
+
 
 Think about the actual problem
 * first problem -> lines are not delineated as they should be (lot of noise)
